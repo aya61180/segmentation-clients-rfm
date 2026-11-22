@@ -46,6 +46,8 @@ et lesquels répondent le mieux aux campagnes marketing ?
 - Taux de réponse basé sur une seule campagne.
 
 ## Dashboard
+
+**Démo en ligne** : https://segmentation-clients-rfm.streamlit.app
 ![Dashboard](images/dashboard.png)
 ![Taux de réponse](images/reponse.png)
 
