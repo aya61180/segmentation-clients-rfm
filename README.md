@@ -48,8 +48,7 @@ et lesquels répondent le mieux aux campagnes marketing ?
 ## Dashboard
 
 **Démo en ligne** : https://segmentation-clients-rfm.streamlit.app
-![Dashboard](images/dashboard.png)
-![Taux de réponse](images/reponse.png)
+
 
 ## Lancer le projet
 ```bash
